@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+//home1 component
 @Component({
     templateUrl: './welcome.component.html'
 })
